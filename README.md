@@ -1,7 +1,7 @@
 # CUSTOMER-PERSONALITY-ANALYSIS
 Customer Performance Analysis Report
 
-#### Overview
+##Overview
 This dashboard was created to analyze customer performance, highlighting key metrics such as total amount spent, average order value, and purchase trends across various customer groups. Stakeholders can assess customer segmentation, product preferences, and campaign effectiveness. Data was prepared using Power Query, and Power BI was utilized for the visualization and analysis.
 
 2. Objectives
