@@ -30,7 +30,6 @@ The dashboard aims to:
 ### Visualization
 * Bar Charts: Used to display total purchase amounts by product category.
 * Pie Charts: Used for marital status segmentation and campaign acceptance rates.
-* Line Charts: Show the monthly trend of purchases over the year.
 * Donut Charts: Provide insights into product category performance.
 ### Tools Used
 *Power Query: For cleaning and transforming the data.
